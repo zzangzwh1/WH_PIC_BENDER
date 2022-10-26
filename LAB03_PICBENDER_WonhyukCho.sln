@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB03_PICBENDER_WonhyukCho", "LAB03_PICBENDER_WonhyukCho\LAB03_PICBENDER_WonhyukCho.csproj", "{7D927DD7-A240-4D46-A763-B58554A5F443}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D927DD7-A240-4D46-A763-B58554A5F443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D927DD7-A240-4D46-A763-B58554A5F443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D927DD7-A240-4D46-A763-B58554A5F443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D927DD7-A240-4D46-A763-B58554A5F443}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4DBCBDF-3A0E-44C6-9572-D4351AE2DE38}
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN2019 - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal
